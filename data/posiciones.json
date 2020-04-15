@@ -2,22 +2,23 @@
    {
       "liga":"LigaMX",
       "posiciones":[
-         "Chivas",
-         "Equipo2",
-         "Equipo3",
-         "Equipo4",
-         "Equipo1",
-         "Equipo2",
-         "Equipo3",
-         "Equipo4",
-         "Equipo1",
-         "Equipo2",
-         "Equipo3",
-         "Equipo4",
-         "Equipo1",
-         "Equipo2",
-         "Equipo3",
-         "Equipo4"
+         "Cruz Azul",
+         "León",
+         "Santos",
+         "Club América",
+         "Guadalajara",
+         "Pumas",
+         "UANL",
+         "FC Juárez",
+         "Morelia",
+         "Puebla",
+         "Pachuca",
+         "Querétaro",
+         "Atlético de San Luis",
+         "Necaxa",
+         "Tijuana",
+         "Atlas",
+         "Monterrey"
       ]
    }
 ]
