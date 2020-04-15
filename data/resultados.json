@@ -2,64 +2,64 @@
   {
     "id":1,
     "equipoLocal":"Morelia",
-    "golesLocal":"4",
+    "golesLocal":4,
     "equipoVisitante":"Querétaro",
-    "golesVisitante":"0"
+    "golesVisitante":0
   },
   {
     "id":2,
     "equipoLocal":"Tijuana",
-    "golesLocal":"3",
+    "golesLocal":3,
     "equipoVisitante":"Pachuca",
-    "golesVisitante":"2"
+    "golesVisitante":2
   },
   {
     "id":3,
     "equipoLocal":"Atlético de San Luis",
-    "golesLocal":"0",
+    "golesLocal":0,
     "equipoVisitante":"Puebla",
-    "golesVisitante":"1"
+    "golesVisitante":1
   },
   {
     "id":4,
     "equipoLocal":"UANL",
-    "golesLocal":"3",
+    "golesLocal":3,
     "equipoVisitante":"FC Juárez",
-    "golesVisitante":"2"
+    "golesVisitante":2
   },
   {
     "id":5,
     "equipoLocal":"León",
-    "golesLocal":"3",
+    "golesLocal":3,
     "equipoVisitante":"Pumas",
-    "golesVisitante":"2"
+    "golesVisitante":2
   },
   {
     "id":6,
     "equipoLocal":"Guadalajara",
-    "golesLocal":"1",
+    "golesLocal":1,
     "equipoVisitante":"Monterrey",
-    "golesVisitante":"1"
+    "golesVisitante":1
   },
   {
     "id":7,
     "equipoLocal":"Toluca",
-    "golesLocal":"2",
+    "golesLocal":2,
     "equipoVisitante":"Atlas",
-    "golesVisitante":"3"
+    "golesVisitante":3
   },
   {
     "id":8,
     "equipoLocal":"Santos",
-    "golesLocal":"2",
+    "golesLocal":2,
     "equipoVisitante":"Necaxa",
-    "golesVisitante":"1"
+    "golesVisitante":1
   },
   {
     "id":9,
     "equipoLocal":"Club América",
-    "golesLocal":"0",
+    "golesLocal":0,
     "equipoVisitante":"Cruz Azul",
-    "golesVisitante":"1"
+    "golesVisitante":1
   },
 ]
