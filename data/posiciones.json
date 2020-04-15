@@ -1,6 +1,22 @@
 [
-  {
-    "Equipo1":"2",
-    "Equipo2":"1"
-  }
+   {
+      "posiciones":[
+         "Equipo1",
+         "Equipo2",
+         "Equipo3",
+         "Equipo4",
+         "Equipo1",
+         "Equipo2",
+         "Equipo3",
+         "Equipo4",
+         "Equipo1",
+         "Equipo2",
+         "Equipo3",
+         "Equipo4",
+         "Equipo1",
+         "Equipo2",
+         "Equipo3",
+         "Equipo4"
+      ]
+   }
 ]
