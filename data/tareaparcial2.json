@@ -1,32 +1,17 @@
 [
   {
     "id":1,
-    "titulo":"QBryan",
+    "nombre":"QBryan",
     "descripcion":"La próxima será una semana decisiva en el fútbol europeo por el coronavirus.La UEFA convocó diferentes reuniones a las 55 federaciones, Ligas, clubes y otros agentes del fútbol para el martes 21, rematando el miércoles 22 con una reunión del Comité Ejecutivo, de la que saldrán decisiones importantes sobre las competencias locales (algunas federaciones quieren echar ya el cierre a la temporada) y a las europeas, con posibles calendarios alternativos sobre la mesa.La UEFA, desde la llegada a Europa del COVID-19, fue con cautela en sus movimientos iniciales y siempre de la mano de las decisiones de los gobiernos. Cuando ya el contagio pasó a ser pandemia y el fútbol echó el cierre, la máxima entidad del fútbol europeo decidió aplazar un año la Eurocopa, ubicándola en los meses de junio y julio de 2021. Dos semanas después llegó el momento de tomar una decisión con sus competiciones de clubes, suspendiendo sin fecha su celebración."
   },
   {
     "id":2,
-    "titulo":"Marouane Fellaini supera al COVID-19",
+    "nombre":"Marouane Fellaini supera al COVID-19",
     "descripcion":"El internacional belga Marouane Fellaini, futbolista del Shandong Luneng chino, ha sido dado de alta tras superar al COVID-19, enfermedad que contrajo a finales del mes pasado.La prensa china se hace eco hoy de esta noticia, anunciada por su club, que indicó que el centrocampista llevará a cabo ahora una cuarentena de catorce días en 'un lugar designado' para ello.El futbolista, que durante años jugó en la liga inglesa con los colores de Everton y Manchester United, fue puesto bajo aislamiento y supervisión médica el pasado 20 de marzo tras dar positivo en la prueba de coronavirus.El contagio supuestamente se produjo en un tren que Fellaini tomó, tras unas vacaciones en varios países, desde Shanghái en dirección a Jinan, capital de la provincia oriental de Shandong y hogar del equipo de la Superliga china cuyos colores defiende desde enero de 2019. 'Queridos amigos, he pasado la prueba del coronavirus y el resultado de mi test es positivo. Agradezco a los aficionados, cuerpo médico y al club todos los cuidados y atenciones. Seguiré el tratamiento y espero retornar al juego tan pronto como sea posible. Por favor, manteneos todos a salvo', publicó el centrocampista en su red social."
   },
   {
     "id":3,
-    "titulo":"La Bundesliga retrasa la decisión sobre su posible reanudación",
+    "nombre":"La Bundesliga retrasa la decisión sobre su posible reanudación",
     "descripcion":"La Liga Alemana de Fútbol (DFL) aplazó para el 23 de abril la reunión inicialmente prevista para este viernes para adoptar cualquier decisión sobre el camino a seguir en la Primera y la Segunda Bundesliga, en medio de la crisis del coronavirus.Las competiciones están interrumpidas por lo menos hasta el 30 de abril. 'El motivo del aplazamiento es darle más tiempo a los clubes y a las Ligas de preparar las decisiones que hay que tomar', dice un comunicado de la DFL. El motivo del aplazamiento es darle más tiempo a los clubes y a las Ligas de preparar las decisiones que hay que tomar"
-  },
-  {
-    "id":4,
-    "titulo":"En Italia avisan: 'Sólo habrá estadios llenos cuando llegue la vacuna'",
-    "descripcion":"Sandra Zampa, subsecretaria de Sanidad del gobierno italiano, habló sobre una posible vuelta del fútbol italiano tras la suspensión por el coronavirus. Según sus palabras, todavía queda bastante para poder volver a ver la Serie A tal y como la conocemos.'Todavía veo la reapertura del fútbol en Italia muy difícil y no veo este debate como una prioridad: todavía puede estar parado un mes más'.Además, Zampa añadió en declaraciones a RaiNews24: 'Volveremos a ver los estadios llenos cuando estemos totalmente seguros, esto es, cuando haya una vacuna'. También fue dura contra los clubes si estos decidieran reanudar y proponer jugar a puerta cerrada: 'Si los equipos creen que se podrán organizar partidos, se valorarán las propuestas. Yo diría que no, aunque no me tocará decidir'."
-  },
-  {
-    "id":5,
-    "titulo":"Confirman adiós de ascenso y descenso por 6 años y terminó el Ascenso MX",
-    "descripcion":"La Liga MX está a nada de anunciar que por los próximos 6 años no habrá descensos ni ascensos, ni tampoco Ascenso MX, pues cada vez está más cerca la llegada de la Liga de Desarrollo de la Federación Mexicana de Futbol. Luego de una reunión entre los 12 presidentes de la división de plata, con un resultado de 8 a favor y 4 en contra culminó, se tomó la determinación de terminar con el Clausura 2020 en el Ascenso MX, así como a los descensos y ascensos, y solamente se espera el sí de los equipos de la Liga MX para hacerlo oficial."
-  },
-  {
-    "id":6,
-    "titulo":"Jorge Campos: ¿por qué el Brody fue uno de los mejores porteros de México?",
-    "descripcion":"Hoy 14 de abril se celebra el Día del Portero por eso se recuerda a uno de los mejores arqueros de la historia como es Jorge Campos,quien gracias a sus espectaculares atajadas y suéteres de colores vistosos, además de una manera distinta de concebir el futbol, alcanzó una tremenda popularidad en México y el mundo. Apodado el Brody, Jorge Campos revolucionó la portería mexicana no solo con sus grandes atajadas, sino por ser un arquero que jugaba adelantado, fuera de su área, ayudando a sus defensas a salir jugando con el balón controlado."
   },
 ]
