@@ -1,26 +1,26 @@
 [
   {
     "id":1,
-    "nombre":"nombre1",
+    "name":"name1",
     "hobby":"hobby1",
     "age":"age1",
-    "phone":"phone",
-    "address":"add"
+    "phone":"phone1",
+    "address":"add1"
   },
   {
     "id":2,
-    "nombre":"nombre2",
-    "hobby":"QBryan",
-    "age":"QBryan",
-    "phone":"QBryan",
-    "address":"add"
+    "name":"name2",
+    "hobby":"hobby2",
+    "age":"age2",
+    "phone":"phone2",
+    "address":"add2"
   },
   {
     "id":3,
-    "nombre":"nombre3",
-    "hobby":"QBryan",
-    "age":"QBryan",
-    "phone":"QBryan",
-    "address":"add"
+    "name":"name3",
+    "hobby":"hobby3",
+    "age":"age3",
+    "phone":"phone3",
+    "address":"add3"
    }
 ]
