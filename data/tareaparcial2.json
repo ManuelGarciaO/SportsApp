@@ -1,0 +1,19 @@
+[
+  
+  {
+    "id":1,
+    "nombre":"Bryan",
+    "hobby":"Play baseball",
+    "age":"20",
+    "phone":"123456",
+    "address":"His home"
+  },
+  {
+    "id":2,
+    "nombre":"Bryan",
+    "hobby":"Play baseball",
+    "age":"20",
+    "phone":"123456",
+    "address":"His home"
+  },
+]
