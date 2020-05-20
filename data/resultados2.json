@@ -28,8 +28,8 @@
                         "tirosV":2
                     },
                     {
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Chivas",
+                        "equipoVisitante":"Cimarrones",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -55,8 +55,8 @@
                 "fecha":"02/01/2020",
                 "resultados":[
                     {
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Atlas",
+                        "equipoVisitante":"America",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -77,8 +77,8 @@
                         "tirosV":2
                     },
                     {
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Cruz Azul",
+                        "equipoVisitante":"Necaxa",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -110,8 +110,8 @@
                 "resultados":[
                     {
                         "id":1,
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Tiburones",
+                        "equipoVisitante":"Puebla",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -133,8 +133,8 @@
                     },
                     {
                         "id":1,
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Alebrijes",
+                        "equipoVisitante":"Dorados",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -161,8 +161,8 @@
                 "resultados":[
                     {
                         "id":1,
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Xolos",
+                        "equipoVisitante":"Pumas",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -184,8 +184,8 @@
                     },
                     {
                         "id":1,
-                        "equipoLocal":"Morelia",
-                        "equipoVisitante":"Querétaro",
+                        "equipoLocal":"Tigres",
+                        "equipoVisitante":"Rayados",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
