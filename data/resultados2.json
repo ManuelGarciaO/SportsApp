@@ -57,7 +57,7 @@
                     {
                         "equipoLocal":"Atlas",
                         "equipoVisitante":"America",
-                        "golesLocal":4,
+                        "golesLocal":1,
                         "golesVisitante":2,
                         "faltasLocal":1,
                         "faltasVisitante":3,
@@ -79,7 +79,7 @@
                     {
                         "equipoLocal":"Cruz Azul",
                         "equipoVisitante":"Necaxa",
-                        "golesLocal":4,
+                        "golesLocal":2,
                         "golesVisitante":2,
                         "faltasLocal":1,
                         "faltasVisitante":3,
@@ -100,9 +100,9 @@
                     },
                     {
                         "equipoLocal":"León",
-                        "golesLocal":3,
+                        "golesLocal":2,
                         "equipoVisitante":"Pumas",
-                        "golesVisitante":2,
+                        "golesVisitante":3,
                         "faltasLocal":1,
                         "faltasVisitante":3,
                         "tarAmarillasL":2,
