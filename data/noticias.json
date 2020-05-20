@@ -1,8 +1,20 @@
 [
   {
     "id":1,
-    "titulo":"QBryan",
-    "descripcion":"La próxima será una semana decisiva en el fútbol europeo por el coronavirus.La UEFA convocó diferentes reuniones a las 55 federaciones, Ligas, clubes y otros agentes del fútbol para el martes 21, rematando el miércoles 22 con una reunión del Comité Ejecutivo, de la que saldrán decisiones importantes sobre las competencias locales (algunas federaciones quieren echar ya el cierre a la temporada) y a las europeas, con posibles calendarios alternativos sobre la mesa.La UEFA, desde la llegada a Europa del COVID-19, fue con cautela en sus movimientos iniciales y siempre de la mano de las decisiones de los gobiernos. Cuando ya el contagio pasó a ser pandemia y el fútbol echó el cierre, la máxima entidad del fútbol europeo decidió aplazar un año la Eurocopa, ubicándola en los meses de junio y julio de 2021. Dos semanas después llegó el momento de tomar una decisión con sus competiciones de clubes, suspendiendo sin fecha su celebración.",
-    "url":"123456789"
+    "titulo":"¿Cuál es el presente del fútbol mexicano en plena pandemia de coronavirus?",
+    "descripcion":"La incertidumbre parece ser la característica principal de nuestro balompié en los últimos días al encontrarse en medio de un fuego cruzado en el que participan todos aquellos que de alguna manera tienen o defienden intereses basados en este negocio o industria, pero que en algún punto rozan o se contraponen con los de otros actores que disparan desde las trincheras de enfrente. Por ello, aquí te dejamos una síntesis del estado actual del fútbol mexicano y de las posturas que hoy levantan la voz para dejar su mensaje en la mesa de negociación, con el fin de que todos entendamos mejor su estado actual de cara a la asamblea de este miércoles 20 de mayo, en la que podría decidirse de manera oficial la cancelación del Clausura 2020.",
+    "url":""
+  },
+  {
+    "id":2,
+    "titulo":"A la nueva Liga de expansión se le avecinan muchos problemas",
+    "descripcion":"A la nueva Liga de expansión creada para subsanar la desaparición del Ascenso MX cada vez le brotan más problemas y eso que ni siquiera tiene fecha de estreno. El revés, más reciente proviene de los clubes Venados, UdeG y Correcaminos, quienes han decidido llevar al Tribunal de Arbitraje Deportivo (TAS) su inconformidad por la decisión de eliminar la Liga en la que ellos participaron hasta marzo de este mismo año. Hoy, el caso ya está en manos del TAS, que deberá designar algún o algunos árbitros para analizar el asunto y dictar una sentencia una vez que estudien y analicen la petición de la parte afectada, así como la reglamentación en los estatutos de la Federación Mexicana de Fútbol vigente al momento de la desaparición. Además, a los dueños de varios clubes de la Liga MX no les resulta para nada atractiva esta nueva competencia creada para sustituir a la categoría de Plata, tanto que algunos ya han dejado ver que no están interesados en participar ni siquiera con algún equipo filial, pues son costos que hoy no tienen liquidez para enfrentar.",
+    "url":""
+  },
+  {
+    "id":3,
+    "titulo":"Erick Gutiérrez se queda en Holanda",
+    "descripcion":"Uno de los nombres que han acaparado los titulares de los rumores de transferencias es el de Érick Gutiérrez. Al sinaloense se le ha ligado, principalmente, a las Chivas. Lo cierto es que él no tiene duda. Quiere quedarse en el PSV. Guti sabe que la llegada del alemán Roger Schmidt al banquillo del PSV le abre una nueva oportunidad. Es un entrenador de clase mundial que ya demostró en el Salzburgo y en el Bayern Leverkusen que le gusta jugar un fútbol ofensivo. Para desarrollar su idea va a necesitar jugadores de buen pie en el medio campo y el excapitán del Pachuca cumple con esa característica.",
+    "url":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/05/19/15899070775123.jpg"
   }
 ]
