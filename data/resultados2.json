@@ -3,7 +3,7 @@
         "liga":"Liga1",
         "resultados":[
             {
-                "fecha":"01/01/2020",
+                "fecha":"1/1/2020",
                 "resultados":[
                     {
                         "equipoLocal":"Morelia",
@@ -52,7 +52,7 @@
                 ]
             },
             {
-                "fecha":"02/01/2020",
+                "fecha":"2/1/2020",
                 "resultados":[
                     {
                         "equipoLocal":"Atlas",
