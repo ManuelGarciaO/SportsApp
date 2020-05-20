@@ -1,7 +1,171 @@
 [
     {
-        "liga":"Liga1",
+        "liga":"Liga MX",
         "resultados":[
+            {
+                "fecha":"1/1/2020",
+                "resultados":[
+                    {
+                        "equipoLocal":"Morelia",
+                        "equipoVisitante":"Querétaro",
+                        "golesLocal":4,
+                        "golesVisitante":2,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    },
+                    {
+                        "equipoLocal":"Chivas",
+                        "equipoVisitante":"Cimarrones",
+                        "golesLocal":4,
+                        "golesVisitante":2,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    }
+                ]
+            },
+            {
+                "fecha":"20/5/2020",
+                "resultados":[
+                    {
+                        "equipoLocal":"Atlas",
+                        "equipoVisitante":"America",
+                        "golesLocal":4,
+                        "golesVisitante":2,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    },
+                    {
+                        "equipoLocal":"Cruz Azul",
+                        "equipoVisitante":"Necaxa",
+                        "golesLocal":4,
+                        "golesVisitante":2,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    },
+                    {
+                        "equipoLocal":"León",
+                        "golesLocal":3,
+                        "equipoVisitante":"Pumas",
+                        "golesVisitante":2,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    },
+                    {
+                        "equipoLocal":"Cruz Azul",
+                        "equipoVisitante":"Necaxa",
+                        "golesLocal":4,
+                        "golesVisitante":2,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    },
+                    {
+                        "equipoLocal":"Guadalajara",
+                        "golesLocal":1,
+                        "equipoVisitante":"Monterrey",
+                        "golesVisitante":1,
+                        "faltasLocal":1,
+                        "faltasVisitante":3,
+                        "tarAmarillasL":2,
+                        "tarAmarillasV":2,
+                        "tarRojasL":0,
+                        "tarRojasV":0,
+                        "fdlugarL":2,
+                        "fdlugarV":1,
+                        "esquinasL":1,
+                        "esquinasV":3,
+                        "salvadasL":3,
+                        "salvadasV":1,
+                        "pctPosL":40,
+                        "pctPosV":60,
+                        "tirosL":4,
+                        "tirosV":2
+                    }
+                ]
+            },
             {
                 "fecha":"1/1/2020",
                 "resultados":[
@@ -99,14 +263,14 @@
                         "tirosV":2
                     }
                 ]
-            }   
+            }
         ]
     },
     {
-        "liga":"Liga2",
+        "liga":"eLiga MX",
         "resultados":[
             {
-                "fecha":"fecha1",
+                "fecha":"19/5/2020",
                 "resultados":[
                     {
                         "id":1,
@@ -157,7 +321,7 @@
                 ]
             },
             {
-                "fecha":"fecha2",
+                "fecha":"18/5/2020",
                 "resultados":[
                     {
                         "id":1,
