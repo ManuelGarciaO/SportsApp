@@ -265,13 +265,13 @@
                 ]
             },
             {
-                "fecha":"8/6/2020",
+                "fecha":"7/6/2020",
                 "resultados":[
                     {
                         "equipoLocal":"Atlas",
                         "equipoVisitante":"America",
-                        "golesLocal":4,
-                        "golesVisitante":2,
+                        "golesLocal":10,
+                        "golesVisitante":12,
                         "faltasLocal":1,
                         "faltasVisitante":3,
                         "tarAmarillasL":2,
@@ -292,8 +292,8 @@
                     {
                         "equipoLocal":"Cruz Azul",
                         "equipoVisitante":"Necaxa",
-                        "golesLocal":4,
-                        "golesVisitante":2,
+                        "golesLocal":5,
+                        "golesVisitante":6,
                         "faltasLocal":1,
                         "faltasVisitante":3,
                         "tarAmarillasL":2,
