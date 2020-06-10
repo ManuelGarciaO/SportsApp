@@ -48,5 +48,40 @@
                 ]
             }   
         ]
+    },
+    {
+        "liga":"eLiga MX",
+        "resultados":[
+            {
+                "fecha":"10/6/2020",
+                "resultados":[
+                    {
+                        "equipoLocal":"eGuadalajara",
+                        "equipoVisitante":"ePuebla",
+                        "hora":"11:00"
+                    },
+                    {
+                        "equipoLocal":"ePachuca",
+                        "equipoVisitante":"eToluca",
+                        "hora":"12:00"
+                    }
+                ]
+            },
+            {
+                "fecha":"11/6/2020",
+                "resultados":[
+                    {
+                        "equipoLocal":"eTijuana",
+                        "equipoVisitante":"ePumas",
+                        "hora":"21:00"
+                    },
+                    {
+                        "equipoLocal":"eUANL",
+                        "equipoVisitante":"eMonterrey",
+                        "Hora":"12:00"
+                    }
+                ]
+            } 
+        ]
     }
   ]
