@@ -28,8 +28,8 @@
                         "tirosV":2
                     },
                     {
-                        "equipoLocal":"Chivas",
-                        "equipoVisitante":"Cimarrones",
+                        "equipoLocal":"Guadalajara",
+                        "equipoVisitante":"Toluca",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -56,7 +56,7 @@
                 "resultados":[
                     {
                         "equipoLocal":"Atlas",
-                        "equipoVisitante":"America",
+                        "equipoVisitante":"Club América",
                         "golesLocal":1,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -192,8 +192,8 @@
                         "tirosV":2
                     },
                     {
-                        "equipoLocal":"Chivas",
-                        "equipoVisitante":"Cimarrones",
+                        "equipoLocal":"Guadalajara",
+                        "equipoVisitante":"Santos",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -220,7 +220,7 @@
                 "resultados":[
                     {
                         "equipoLocal":"Atlas",
-                        "equipoVisitante":"America",
+                        "equipoVisitante":"UANL",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -269,7 +269,7 @@
                 "resultados":[
                     {
                         "equipoLocal":"Atlas",
-                        "equipoVisitante":"America",
+                        "equipoVisitante":"Club América",
                         "golesLocal":10,
                         "golesVisitante":12,
                         "faltasLocal":1,
@@ -318,7 +318,7 @@
                 "resultados":[
                     {
                         "equipoLocal":"Atlas",
-                        "equipoVisitante":"America",
+                        "equipoVisitante":"Club América",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -372,8 +372,8 @@
                 "resultados":[
                     {
                         "id":1,
-                        "equipoLocal":"Tiburones",
-                        "equipoVisitante":"Puebla",
+                        "equipoLocal":"eGuadalajara",
+                        "equipoVisitante":"ePuebla",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -395,8 +395,8 @@
                     },
                     {
                         "id":1,
-                        "equipoLocal":"Alebrijes",
-                        "equipoVisitante":"Dorados",
+                        "equipoLocal":"ePachuca",
+                        "equipoVisitante":"eToluca",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -423,8 +423,8 @@
                 "resultados":[
                     {
                         "id":1,
-                        "equipoLocal":"Xolos",
-                        "equipoVisitante":"Pumas",
+                        "equipoLocal":"eTijuana",
+                        "equipoVisitante":"ePumas",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
@@ -446,8 +446,8 @@
                     },
                     {
                         "id":1,
-                        "equipoLocal":"Tigres",
-                        "equipoVisitante":"Rayados",
+                        "equipoLocal":"eUANL",
+                        "equipoVisitante":"eMonterrey",
                         "golesLocal":4,
                         "golesVisitante":2,
                         "faltasLocal":1,
