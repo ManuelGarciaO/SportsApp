@@ -11,7 +11,8 @@
             "golesAFavor":24,
             "golesEnContra":14,
             "diferenciaDeGoles":10,
-            "puntos":22
+            "puntos":22,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Escudo_Deportivo_Cruz_Azul.png/1200px-Escudo_Deportivo_Cruz_Azul.png"
          },
          {
             "equipo":"León",
@@ -22,7 +23,8 @@
             "golesAFavor":23,
             "golesEnContra":14,
             "diferenciaDeGoles":9,
-            "puntos":21
+            "puntos":21,
+            "logo":"https://logodownload.org/wp-content/uploads/2020/05/club-leon-logo-1.png"
          },
          {
             "equipo":"Santos",
@@ -33,7 +35,8 @@
             "golesAFavor":14,
             "golesEnContra":14,
             "diferenciaDeGoles":0,
-            "puntos":17
+            "puntos":17,
+            "logo":"https://logodownload.org/wp-content/uploads/2020/05/santos-laguna-logo-1.png"
          },
          {
             "equipo":"Club América",
@@ -44,7 +47,8 @@
             "golesAFavor":11,
             "golesEnContra":11,
             "diferenciaDeGoles":0,
-            "puntos":17
+            "puntos":17,
+            "logo":"https://www.clubamerica.com.mx/portal/wp-content/themes/cfamerica/img/header/ClubAmericaLogo.png"
          },
          {
             "equipo":"Guadalajara",
@@ -55,7 +59,8 @@
             "golesAFavor":13,
             "golesEnContra":11,
             "diferenciaDeGoles":2,
-            "puntos":16
+            "puntos":16,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/6/61/Escudo_del_Club_Deportivo_Guadalajara.png"
          },
          {
             "equipo":"Pumas",
@@ -66,7 +71,8 @@
             "golesAFavor":20,
             "golesEnContra":19,
             "diferenciaDeGoles":1,
-            "puntos":15
+            "puntos":15,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/2/20/LogoPUMASUNAM%281%29.png"
          },
          {
             "equipo":"UANL",
@@ -77,7 +83,8 @@
             "golesAFavor":13,
             "golesEnContra":10,
             "diferenciaDeGoles":3,
-            "puntos":14
+            "puntos":14,
+            "logo":"https://seeklogo.com/images/T/tigres-del-universitario-de-nuevo-leon-logo-C5E054050C-seeklogo.com.png"
          },
          {
             "equipo":"FC Juárez",
@@ -88,7 +95,8 @@
             "golesAFavor":20,
             "golesEnContra":18,
             "diferenciaDeGoles":2,
-            "puntos":14
+            "puntos":14,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Fc_Ju%C3%A1rez_logo.png"
          },
          {
             "equipo":"Morelia",
@@ -99,7 +107,8 @@
             "golesAFavor":17,
             "golesEnContra":16,
             "diferenciaDeGoles":1,
-            "puntos":14
+            "puntos":14,
+            "logo":"https://cdn.freebiesupply.com/logos/large/2x/monarcas-morelia-logo-png-transparent.png"
          },
          {
             "equipo":"Puebla",
@@ -110,7 +119,8 @@
             "golesAFavor":7,
             "golesEnContra":7,
             "diferenciaDeGoles":0,
-            "puntos":14
+            "puntos":14,
+            "logo":"https://seeklogo.com/images/P/Puebla-logo-86F05744C6-seeklogo.com.png"
          },
          {
             "equipo":"Pachuca",
@@ -121,7 +131,8 @@
             "golesAFavor":11,
             "golesEnContra":12,
             "diferenciaDeGoles":-1,
-            "puntos":14
+            "puntos":14,
+            "logo":"https://vignette.wikia.nocookie.net/liga-mx/images/7/72/PACHlogo2.png/revision/latest/top-crop/width/360/height/450?cb=20190808210042&path-prefix=es"
          },
          {
             "equipo":"Querétaro",
@@ -132,7 +143,8 @@
             "golesAFavor":13,
             "golesEnContra":15,
             "diferenciaDeGoles":-2,
-            "puntos":14
+            "puntos":14,
+            "logo":"https://cdn.freebiesupply.com/logos/large/2x/queretaro-logo-png-transparent.png"
          },
          {
             "equipo":"Atlético de San Luis",
@@ -143,7 +155,8 @@
             "golesAFavor":11,
             "golesEnContra":15,
             "diferenciaDeGoles":-4,
-            "puntos":13
+            "puntos":13,
+            "logo":"https://vignette.wikia.nocookie.net/liga-mx/images/d/d8/ASL17logo.png/revision/latest/scale-to-width-down/340?cb=20170613213010&path-prefix=es"
          },
          {
             "equipo":"Necaxa",
@@ -154,7 +167,8 @@
             "golesAFavor":17,
             "golesEnContra":16,
             "diferenciaDeGoles":1,
-            "puntos":11
+            "puntos":11,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Club_Necaxa.png"
          },
          {
             "equipo":"Toluca",
@@ -165,7 +179,8 @@
             "golesAFavor":16,
             "golesEnContra":18,
             "diferenciaDeGoles":-2,
-            "puntos":10
+            "puntos":10,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Toluca_Escudo_1982.png"
          },
          {
             "equipo":"Tijuana",
@@ -176,7 +191,8 @@
             "golesAFavor":10,
             "golesEnContra":16,
             "diferenciaDeGoles":-6,
-            "puntos":9
+            "puntos":9,
+            "logo":"https://seeklogo.com/images/C/Club_Tijuana_Gallos_de_Caliente-logo-C72C4CAB69-seeklogo.com.png"
          },
          {
             "equipo":"Atlas",
@@ -187,7 +203,8 @@
             "golesAFavor":10,
             "golesEnContra":17,
             "diferenciaDeGoles":-7,
-            "puntos":9
+            "puntos":9,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/4/49/F%C3%BAtbol_Club_Atlas.PNG"
          },
          {
             "equipo":"Monterrey",
@@ -198,7 +215,8 @@
             "golesAFavor":10,
             "golesEnContra":17,
             "diferenciaDeGoles":-7,
-            "puntos":5
+            "puntos":5,
+            "logo":"https://logodownload.org/wp-content/uploads/2019/02/rayados-monterrey-logo-escudo.png"
          }
       ]
    },
@@ -214,7 +232,8 @@
             "golesAFavor":39,
             "golesEnContra":14,
             "diferenciaDeGoles":25,
-            "puntos":32
+            "puntos":32,
+            "logo":"https://logodownload.org/wp-content/uploads/2020/05/club-leon-logo-1.png"
          },
          {
             "equipo":"ePachuca",
@@ -225,7 +244,8 @@
             "golesAFavor":29,
             "golesEnContra":10,
             "diferenciaDeGoles":19,
-            "puntos":27
+            "puntos":27,
+            "logo":"https://vignette.wikia.nocookie.net/liga-mx/images/7/72/PACHlogo2.png/revision/latest/top-crop/width/360/height/450?cb=20190808210042&path-prefix=es"
          },
          {
             "equipo":"eAtletico de San Luis",
@@ -236,7 +256,8 @@
             "golesAFavor":29,
             "golesEnContra":10,
             "diferenciaDeGoles":19,
-            "puntos":24
+            "puntos":24,
+            "logo":"https://vignette.wikia.nocookie.net/liga-mx/images/d/d8/ASL17logo.png/revision/latest/scale-to-width-down/340?cb=20170613213010&path-prefix=es"
          },
          {
             "equipo":"eMonterrey",
@@ -247,10 +268,11 @@
             "golesAFavor":35,
             "golesEnContra":20,
             "diferenciaDeGoles":15,
-            "puntos":21
+            "puntos":21,
+            "logo":"https://logodownload.org/wp-content/uploads/2019/02/rayados-monterrey-logo-escudo.png"
          },
          {
-            "equipo":"eAmerica",
+            "equipo":"eClub América",
             "juegosJugados":12,
             "juegosGanados":7,
             "juegosEmpatados":0,
@@ -258,7 +280,8 @@
             "golesAFavor":32,
             "golesEnContra":30,
             "diferenciaDeGoles":2,
-            "puntos":21
+            "puntos":21,
+            "logo":"https://www.clubamerica.com.mx/portal/wp-content/themes/cfamerica/img/header/ClubAmericaLogo.png"
          },
          {
             "equipo":"eToluca",
@@ -269,7 +292,8 @@
             "golesAFavor":25,
             "golesEnContra":26,
             "diferenciaDeGoles":-1,
-            "puntos":20
+            "puntos":20,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Toluca_Escudo_1982.png"
          },
          {
             "equipo":"eAtlas",
@@ -280,7 +304,8 @@
             "golesAFavor":30,
             "golesEnContra":16,
             "diferenciaDeGoles":14,
-            "puntos":18
+            "puntos":18,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/4/49/F%C3%BAtbol_Club_Atlas.PNG"
          },
          {
             "equipo":"eSantos",
@@ -291,7 +316,8 @@
             "golesAFavor":28,
             "golesEnContra":29,
             "diferenciaDeGoles":-1,
-            "puntos":18
+            "puntos":18,
+            "logo":"https://logodownload.org/wp-content/uploads/2020/05/santos-laguna-logo-1.png"
          },
          {
             "equipo":"eGuadalajara",
@@ -302,7 +328,8 @@
             "golesAFavor":22,
             "golesEnContra":19,
             "diferenciaDeGoles":3,
-            "puntos":17
+            "puntos":17,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/6/61/Escudo_del_Club_Deportivo_Guadalajara.png"
          },
          {
             "equipo":"eNecaxa",
@@ -313,10 +340,11 @@
             "golesAFavor":32,
             "golesEnContra":37,
             "diferenciaDeGoles":-5,
-            "puntos":15
+            "puntos":15,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Club_Necaxa.png"
          },
          {
-            "equipo":"eMonarcas",
+            "equipo":"eMorelia",
             "juegosJugados":11,
             "juegosGanados":5,
             "juegosEmpatados":0,
@@ -324,7 +352,8 @@
             "golesAFavor":14,
             "golesEnContra":30,
             "diferenciaDeGoles":-16,
-            "puntos":15
+            "puntos":15,
+            "logo":"https://cdn.freebiesupply.com/logos/large/2x/monarcas-morelia-logo-png-transparent.png"
          },
          {
             "equipo":"ePumas",
@@ -335,7 +364,8 @@
             "golesAFavor":17,
             "golesEnContra":23,
             "diferenciaDeGoles":-6,
-            "puntos":13
+            "puntos":13,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/2/20/LogoPUMASUNAM%281%29.png"
          },
          {
             "equipo":"eUANL",
@@ -346,7 +376,8 @@
             "golesAFavor":25,
             "golesEnContra":32,
             "diferenciaDeGoles":-7,
-            "puntos":13
+            "puntos":13,
+            "logo":"https://seeklogo.com/images/T/tigres-del-universitario-de-nuevo-leon-logo-C5E054050C-seeklogo.com.png"
          },
          {
             "equipo":"eQueretaro",
@@ -357,7 +388,8 @@
             "golesAFavor":25,
             "golesEnContra":29,
             "diferenciaDeGoles":-4,
-            "puntos":12
+            "puntos":12,
+            "logo":"https://cdn.freebiesupply.com/logos/large/2x/queretaro-logo-png-transparent.png"
          },
          {
             "equipo":"ePuebla",
@@ -368,7 +400,8 @@
             "golesAFavor":11,
             "golesEnContra":19,
             "diferenciaDeGoles":-8,
-            "puntos":12
+            "puntos":12,
+            "logo":"https://seeklogo.com/images/P/Puebla-logo-86F05744C6-seeklogo.com.png"
          },
          {
             "equipo":"eCruz Azul",
@@ -379,7 +412,8 @@
             "golesAFavor":20,
             "golesEnContra":28,
             "diferenciaDeGoles":-8,
-            "puntos":9
+            "puntos":9,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Escudo_Deportivo_Cruz_Azul.png/1200px-Escudo_Deportivo_Cruz_Azul.png"
          },
          {
             "equipo":"eTijuana",
@@ -390,7 +424,8 @@
             "golesAFavor":15,
             "golesEnContra":27,
             "diferenciaDeGoles":-12,
-            "puntos":9
+            "puntos":9,
+            "logo":"https://seeklogo.com/images/C/Club_Tijuana_Gallos_de_Caliente-logo-C72C4CAB69-seeklogo.com.png"
          },
          {
             "equipo":"eFC Juarez",
@@ -401,7 +436,8 @@
             "golesAFavor":18,
             "golesEnContra":39,
             "diferenciaDeGoles":-21,
-            "puntos":2
+            "puntos":2,
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Fc_Ju%C3%A1rez_logo.png"
          }
       ]
    }
