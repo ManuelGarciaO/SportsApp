@@ -1,0 +1,146 @@
+[
+  {
+    "equipo":"Cruz Azul",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"León",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Santos",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Club América",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Guadalajara",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Pumas",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"UANL",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"FC Juárez",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Morelia",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Puebla",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Pachuca",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Querétaro",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Atlético de San Luis",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Necaxa",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Toluca",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Tijuana",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Atlas",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"Monterrey",
+    "liga":"Liga MX"
+  },
+  {
+    "equipo":"eCruz Azul",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eLeón",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eSantos",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eClub América",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eGuadalajara",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"ePumas",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eUANL",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eFC Juárez",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eMorelia",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"ePuebla",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"ePachuca",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eQuerétaro",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eAtlético de San Luis",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eNecaxa",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eToluca",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eTijuana",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eAtlas",
+    "liga":"eLiga MX"
+  },
+  {
+    "equipo":"eMonterrey",
+    "liga":"eLiga MX"
+  }
+]
