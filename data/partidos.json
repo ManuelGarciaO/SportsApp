@@ -1,0 +1,52 @@
+[
+    {
+        "liga":"Liga MX",
+        "resultados":[
+            {
+                "fecha":"10/6/2020",
+                "partidos":[
+                    {
+                        "equipoLocal":"Morelia",
+                        "equipoVisitante":"Querétaro",
+                        "hora":"10:30"
+                    },
+                    {
+                        "equipoLocal":"Chivas",
+                        "equipoVisitante":"Cimarrones",
+                        "hora":"10:30"
+                    }
+                ]
+            },
+            {
+                "fecha":"11/6/2020",
+                "partidos":[
+                    {
+                        "equipoLocal":"Atlas",
+                        "equipoVisitante":"America",
+                        "hora":"10:30"
+                    },
+                    {
+                        "equipoLocal":"Cruz Azul",
+                        "equipoVisitante":"Necaxa",
+                        "hora":"10:30"
+                    },
+                    {
+                        "equipoLocal":"León",
+                        "equipoVisitante":"Pumas",
+                        "hora":"10:30"
+                    },
+                    {
+                        "equipoLocal":"Cruz Azul",
+                        "equipoVisitante":"Necaxa",
+                        "hora":"10:30"
+                    },
+                    {
+                        "equipoLocal":"Guadalajara",
+                        "equipoVisitante":"Monterrey",
+                        "hora":"10:30"
+                    }
+                ]
+            }   
+        ]
+    }
+  ]
