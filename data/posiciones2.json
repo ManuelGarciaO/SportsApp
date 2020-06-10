@@ -206,7 +206,7 @@
       "liga":"eLiga MX",
       "posiciones":[
          {
-            "equipo":"Leon",
+            "equipo":"eLeon",
             "juegosJugados":12,
             "juegosGanados":10,
             "juegosEmpatados":2,
@@ -217,7 +217,7 @@
             "puntos":32
          },
          {
-            "equipo":"Pachuca",
+            "equipo":"ePachuca",
             "juegosJugados":12,
             "juegosGanados":9,
             "juegosEmpatados":0,
@@ -228,7 +228,7 @@
             "puntos":27
          },
          {
-            "equipo":"Atletico de San Luis",
+            "equipo":"eAtletico de San Luis",
             "juegosJugados":12,
             "juegosGanados":7,
             "juegosEmpatados":3,
@@ -239,7 +239,7 @@
             "puntos":24
          },
          {
-            "equipo":"Monterrey",
+            "equipo":"eMonterrey",
             "juegosJugados":12,
             "juegosGanados":6,
             "juegosEmpatados":3,
@@ -250,7 +250,7 @@
             "puntos":21
          },
          {
-            "equipo":"America",
+            "equipo":"eAmerica",
             "juegosJugados":12,
             "juegosGanados":7,
             "juegosEmpatados":0,
@@ -261,7 +261,7 @@
             "puntos":21
          },
          {
-            "equipo":"Toluca",
+            "equipo":"eToluca",
             "juegosJugados":11,
             "juegosGanados":6,
             "juegosEmpatados":2,
@@ -272,7 +272,7 @@
             "puntos":20
          },
          {
-            "equipo":"Atlas",
+            "equipo":"eAtlas",
             "juegosJugados":12,
             "juegosGanados":5,
             "juegosEmpatados":3,
@@ -283,7 +283,7 @@
             "puntos":18
          },
          {
-            "equipo":"Santos",
+            "equipo":"eSantos",
             "juegosJugados":12,
             "juegosGanados":6,
             "juegosEmpatados":0,
@@ -294,7 +294,7 @@
             "puntos":18
          },
          {
-            "equipo":"Guadalajara",
+            "equipo":"eGuadalajara",
             "juegosJugados":11,
             "juegosGanados":4,
             "juegosEmpatados":5,
@@ -305,7 +305,7 @@
             "puntos":17
          },
          {
-            "equipo":"Necaxa",
+            "equipo":"eNecaxa",
             "juegosJugados":12,
             "juegosGanados":4,
             "juegosEmpatados":3,
@@ -316,7 +316,7 @@
             "puntos":15
          },
          {
-            "equipo":"Monarcas",
+            "equipo":"eMonarcas",
             "juegosJugados":11,
             "juegosGanados":5,
             "juegosEmpatados":0,
@@ -327,7 +327,7 @@
             "puntos":15
          },
          {
-            "equipo":"Pumas",
+            "equipo":"ePumas",
             "juegosJugados":11,
             "juegosGanados":4,
             "juegosEmpatados":1,
@@ -338,7 +338,7 @@
             "puntos":13
          },
          {
-            "equipo":"UANL",
+            "equipo":"eUANL",
             "juegosJugados":12,
             "juegosGanados":4,
             "juegosEmpatados":1,
@@ -349,7 +349,7 @@
             "puntos":13
          },
          {
-            "equipo":"Queretaro",
+            "equipo":"eQueretaro",
             "juegosJugados":12,
             "juegosGanados":3,
             "juegosEmpatados":3,
@@ -360,7 +360,7 @@
             "puntos":12
          },
          {
-            "equipo":"Puebla",
+            "equipo":"ePuebla",
             "juegosJugados":12,
             "juegosGanados":3,
             "juegosEmpatados":3,
@@ -371,7 +371,7 @@
             "puntos":12
          },
          {
-            "equipo":"Cruz Azul",
+            "equipo":"eCruz Azul",
             "juegosJugados":11,
             "juegosGanados":3,
             "juegosEmpatados":0,
@@ -382,7 +382,7 @@
             "puntos":9
          },
          {
-            "equipo":"Tijuana",
+            "equipo":"eTijuana",
             "juegosJugados":12,
             "juegosGanados":2,
             "juegosEmpatados":3,
@@ -393,7 +393,7 @@
             "puntos":9
          },
          {
-            "equipo":"FC Juarez",
+            "equipo":"eFC Juarez",
             "juegosJugados":11,
             "juegosGanados":0,
             "juegosEmpatados":2,
